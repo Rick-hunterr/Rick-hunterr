@@ -1,24 +1,21 @@
 <div align="center">
-
-<img src="profile_banner.png" alt="Pablo Daniel Santellan — Cybersecurity, Software Development, Game Development" width="100%">
-
+<img src="profile_animation.gif" alt="Pablo Daniel Santellan — Cybersecurity, Software Development, Game Development" width="100%">
 </div>
 
 <div align="center">
 
 # Pablo Daniel Santellan
-
 ### Cybersecurity · Software Development · Game Development
 
 Construyo proyectos para aprender, experimentar y convertir ideas en software funcional.
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Rick--hunterr-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Rick-hunterr)
-[![Linux](https://img.shields.io/badge/Linux-181717?style=for-the-badge\&logo=linux\&logoColor=white)](https://www.linux.org/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)](https://www.python.org/)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)](https://git-scm.com/)
-[![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge\&logo=godotengine\&logoColor=white)](https://godotengine.org/)
+[![GitHub](https://img.shields.io/badge/GitHub-Rick--hunterr-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rick-hunterr)
+[![Linux](https://img.shields.io/badge/Linux-181717?style=for-the-badge&logo=linux&logoColor=white)](https://www.linux.org/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)](https://godotengine.org/)
 
 </div>
 
@@ -38,13 +35,13 @@ Actualmente estoy profundizando mis conocimientos en **ciberseguridad**, mientra
 
 <div align="center">
 
-| Área                     | Enfoque                                              |
+| Área | Enfoque |
 | :----------------------- | :--------------------------------------------------- |
-| **Cybersecurity**        | Linux · Systems · Networking · Security Fundamentals |
-| **Software Development** | Python · Git · Architecture · Problem Solving        |
-| **Game Development**     | Godot · GDScript · 2D · Pixel Art · Game Systems     |
-| **Web Development**      | HTML · CSS · Frontend Projects                       |
-| **Data**                 | Databases · Data Structures                          |
+| **Cybersecurity** | Linux · Systems · Networking · Security Fundamentals |
+| **Software Development** | Python · Git · Architecture · Problem Solving |
+| **Game Development** | Godot · GDScript · 2D · Pixel Art · Game Systems |
+| **Web Development** | HTML · CSS · Frontend Projects |
+| **Data** | Databases · Data Structures |
 
 </div>
 
@@ -75,19 +72,16 @@ El proyecto combina diseño narrativo, sistemas de juego, diálogo, exploración
 ## Selected Projects
 
 ### CyberAlberdi
-
 Proyecto orientado a **ciberseguridad y concientización digital**, combinando contenido educativo y desarrollo web.
 
 [Ver repositorio →](https://github.com/Rick-hunterr/CyberAlberdi)
 
 ### Incognita
-
 Videojuego educativo de matemáticas desarrollado como una experiencia interactiva.
 
 [Ver repositorio →](https://github.com/Rick-hunterr/Incognita)
 
 ### Masterclass
-
 Proyecto web desarrollado alrededor de contenido educativo y exploración de tecnologías web.
 
 [Ver repositorio →](https://github.com/Rick-hunterr/Masterclass)
@@ -97,7 +91,6 @@ Proyecto web desarrollado alrededor de contenido educativo y exploración de tec
 ## Collaboration
 
 ### Benteveo Studio
-
 Participé en el desarrollo del proyecto colaborativo **Benteveo Studio**, trabajando específicamente en el diseño, estructura y gestión de la **base de datos**.
 
 [Ver proyecto →](https://github.com/axelzavaleta/benteveo-studio)
@@ -107,9 +100,7 @@ Participé en el desarrollo del proyecto colaborativo **Benteveo Studio**, traba
 ## Technologies
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=linux,python,git,github,vscode,html,css,sqlite,lua,godot" alt="Technologies">
-
 </div>
 
 ---
@@ -137,7 +128,6 @@ SOFTWARE DEVELOPMENT
 > **Construir. Aprender. Mejorar.**
 
 No busco solamente que un proyecto funcione.
-
 Me interesa entender por qué funciona, detectar qué puede mejorar y convertir cada proyecto en una oportunidad para aprender algo nuevo.
 
 ---
@@ -185,4 +175,3 @@ Turn ideas into complete interactive experiences
 [GitHub](https://github.com/Rick-hunterr) · [SEÑALES](https://github.com/Rick-hunterr/signs)
 
 </div>
-
