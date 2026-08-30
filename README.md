@@ -104,7 +104,7 @@ Participé en el desarrollo del proyecto colaborativo **Benteveo Studio**, traba
 </div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Rick-hunterr&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7" width="100%">
+<img src="https://github-trophies.vercel.app/?username=Rick-hunterr&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7" width="100%">
 </div>
 
 ---
