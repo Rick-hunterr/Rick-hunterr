@@ -107,16 +107,16 @@ Participé en el desarrollo del proyecto colaborativo **Benteveo Studio**, traba
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rick-hunterr&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" width="48%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rick-hunterr&layout=compact&theme=dark&hide_border=true" width="48%">
+<img src="https://github-readme-stats.vercel.app/api?username=Rick-hunterr&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" width="49%" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rick-hunterr&layout=compact&theme=dark&hide_border=true" width="41%" />
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=Rick-hunterr&theme=dark&hide_border=true">
+<img src="https://streak-stats.demolab.com?user=Rick-hunterr&theme=dark&hide_border=true" width="60%">
 
 </div>
 
----
 ---
 
 ## Currently Learning
