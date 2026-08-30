@@ -4,18 +4,21 @@
 
 ### Developer · Game Development · Programming
 
-Construyo proyectos que combinan programación, diseño y experiencias interactivas.
+Construyo proyectos donde programación, diseño y tecnología se encuentran.
+
+<br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-Rick--hunterr-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Rick-hunterr)
 [![Godot](https://img.shields.io/badge/Godot-4.x-478CBF?style=for-the-badge\&logo=godotengine\&logoColor=white)](https://godotengine.org)
 [![GDScript](https://img.shields.io/badge/GDScript-355570?style=for-the-badge)](https://docs.godotengine.org)
-[![Linux](https://img.shields.io/badge/Linux-333333?style=for-the-badge\&logo=linux\&logoColor=white)](https://www.linux.org/)
+[![Linux](https://img.shields.io/badge/Linux-181717?style=for-the-badge\&logo=linux\&logoColor=white)](https://www.linux.org/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)](https://git-scm.com/)
 
 </div>
 
 ---
 
-## Featured Project
+## Currently building
 
 <div align="center">
 
@@ -29,7 +32,7 @@ Construyo proyectos que combinan programación, diseño y experiencias interacti
 
 Una historia sobre empatía, vínculos y las señales que dejamos en los demás.
 
-[**Ver repositorio →**](https://github.com/Rick-hunterr/signs)
+[**Explorar proyecto →**](https://github.com/Rick-hunterr/signs)
 
 </div>
 
@@ -37,100 +40,101 @@ Una historia sobre empatía, vínculos y las señales que dejamos en los demás.
 
 ## About
 
-Soy desarrollador enfocado en aprender construyendo proyectos reales.
+Soy desarrollador y me gusta aprender construyendo proyectos reales.
 
-Actualmente estoy trabajando principalmente en desarrollo de videojuegos 2D, programación y herramientas sobre Linux, mientras continúo formándome en ciberseguridad.
+Actualmente estoy enfocado en desarrollo de videojuegos 2D, programación y herramientas sobre Linux, mientras continúo formándome en ciberseguridad.
 
-Me interesa especialmente transformar ideas en proyectos funcionales, organizados y fáciles de mantener.
+Me interesa especialmente transformar ideas en proyectos funcionales, mantener una estructura de código clara y aprender de cada iteración.
 
 ---
 
-## Current Focus
+## Focus
 
 ```text
-Game Development
+GAME DEVELOPMENT
 Godot · GDScript · 2D · Pixel Art · Game Systems
 
-Programming
+PROGRAMMING
 Python · Git · Linux · Software Development
 
-Currently Learning
+WEB
+HTML · CSS · Frontend Projects
+
+DATA
+Databases · Data Structures
+
+CURRENTLY LEARNING
 Cybersecurity · Systems · Development Practices
 ```
 
 ---
 
-## What I'm Building
+## Featured projects
 
 ### SEÑALES
 
-Un Action-RPG narrativo 2D donde la empatía no es solamente parte de la historia: es parte de la mecánica.
+Action-RPG narrativo 2D donde la empatía forma parte de la mecánica.
 
-Actualmente trabajando en:
+[View repository →](https://github.com/Rick-hunterr/signs)
 
-* estructura del proyecto;
-* sistemas de guardado;
-* diálogo e interacción;
-* diseño del mundo;
-* documentación y herramientas de desarrollo.
+### Incognita
 
-### Próximos proyectos
+Videojuego educativo de matemáticas desarrollado como proyecto interactivo.
 
-Quiero seguir construyendo proyectos que me permitan experimentar con:
+[View repository →](https://github.com/Rick-hunterr/Incognita)
 
-* desarrollo de videojuegos;
-* aplicaciones;
-* automatización;
-* herramientas para desarrolladores;
-* programación orientada a sistemas y seguridad.
+### CyberAlberdi
 
----
+Proyecto orientado a ciberseguridad y concientización digital.
 
-## Featured Work
+[View repository →](https://github.com/Rick-hunterr/CyberAlberdi)
 
-<div align="center">
+### Benteveo Studio
 
-<a href="https://github.com/Rick-hunterr/signs">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rick-hunterr&repo=signs&theme=dark" />
-</a>
+Proyecto colaborativo en el que participé trabajando específicamente en la estructura y gestión de la base de datos.
 
-</div>
+[View project →](https://github.com/axelzavaleta/benteveo-studio)
 
 ---
 
-## Technologies
+## What I'm learning
 
-| Área                   | Tecnologías                       |
-| :--------------------- | :-------------------------------- |
-| **Game Development**   | Godot · GDScript · 2D · Pixel Art |
-| **Programming**        | Python · GDScript                 |
-| **Tools**              | Git · GitHub · VS Code            |
-| **Environment**        | Linux · Debian · KDE Plasma       |
-| **Currently Learning** | Cybersecurity                     |
+```text
+Cybersecurity
+├── Systems
+├── Networking
+└── Security fundamentals
+
+Software Development
+├── Architecture
+├── Version control
+├── Project organization
+└── Development practices
+```
 
 ---
 
-## Development Philosophy
+## Development philosophy
 
-> **Construir, aprender y mejorar.**
+> **Construir. Aprender. Mejorar.**
 
 Prefiero aprender mediante proyectos reales: diseñar una idea, convertirla en código, encontrar problemas y mejorar la solución.
 
 ---
 
-## GitHub
+## Selected technologies
 
 <div align="center">
 
-<a href="https://github.com/Rick-hunterr">
-<img src="https://github-readme-stats.vercel.app/api?username=Rick-hunterr&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165">
-</a>
-
-<a href="https://github.com/Rick-hunterr">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rick-hunterr&layout=compact&theme=dark&hide_border=true" height="165">
-</a>
+<img src="https://skillicons.dev/icons?i=godot,godotengine,python,git,github,linux,vscode,html,css,sqlite,lua" />
 
 </div>
+
+---
+
+## Collaboration
+
+También me interesa participar en proyectos donde pueda aportar desde programación, sistemas, datos y resolución de problemas.
 
 ---
 
@@ -141,3 +145,4 @@ Prefiero aprender mediante proyectos reales: diseñar una idea, convertirla en c
 [GitHub](https://github.com/Rick-hunterr) · [SEÑALES](https://github.com/Rick-hunterr/signs)
 
 </div>
+
