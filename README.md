@@ -52,7 +52,7 @@ Actualmente estoy profundizando mis conocimientos en **ciberseguridad**, mientra
 <div align="center">
 
 <a href="https://github.com/Rick-hunterr/signs">
-<img src="https://raw.githubusercontent.com/Rick-hunterr/signs/main/docs/banner.png" alt="SEÑALES — El Umbral del Barrio" width="100%">
+<img src="https://raw.githubusercontent.com/Rick-hunterr/signs/main/docs/banner/banner.png" alt="SEÑALES — El Umbral del Barrio" width="100%">
 </a>
 
 ## SEÑALES — El Umbral del Barrio
