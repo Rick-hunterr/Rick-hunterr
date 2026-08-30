@@ -103,6 +103,11 @@ Participé en el desarrollo del proyecto colaborativo **Benteveo Studio**, traba
 <img src="https://skillicons.dev/icons?i=linux,python,git,github,vscode,html,css,sqlite,lua,godot" alt="Technologies">
 </div>
 
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Rick-hunterr&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7" width="100%">
+</div>
+
+---
 ## GitHub Stats
 
 <div align="center">
