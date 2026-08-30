@@ -142,21 +142,17 @@ Me interesa entender por qué funciona, detectar qué puede mejorar y convertir 
 
 ---
 
-## GitHub Activity
+## GitHub
 
 <div align="center">
 
-<a href="https://github.com/Rick-hunterr">
+[![GitHub](https://img.shields.io/badge/GitHub-Rick--hunterr-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rick-hunterr)
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rick-hunterr&show_icons=true&theme=dark&hide_border=true&rank_icon=github" height="165">
+<br><br>
 
-</a>
-
-<a href="https://github.com/Rick-hunterr">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rick-hunterr&layout=compact&theme=dark&hide_border=true" height="165">
-
-</a>
+[Ver mis repositorios](https://github.com/Rick-hunterr?tab=repositories)
+&nbsp;&nbsp;·&nbsp;&nbsp;
+[Ver mis proyectos fijados](https://github.com/Rick-hunterr)
 
 </div>
 
