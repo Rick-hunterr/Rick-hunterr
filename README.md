@@ -71,19 +71,6 @@ El proyecto combina diseño narrativo, sistemas de juego, diálogo, exploración
 
 ## Selected Projects
 
-<div align="center">
-
-<a href="https://github.com/Rick-hunterr/champaqui">
-<img src="https://raw.githubusercontent.com/Rick-hunterr/champaqui/main/docs/banner/banner.png" alt="Córdoba Capital → Cerro Champaquí, a pie" width="80%">
-</a>
-
-</div>
-
-### Córdoba Capital → Cerro Champaquí, a pie
-Cuaderno de ruta interactivo (Leaflet + HTML/CSS/JS) para una expedición de 7 personas caminando 165 km hasta la cumbre del Champaquí. Funciona 100% offline: rutas, datos y descargas GPX/KML sin depender de conexión.
-
-[Ver repositorio →](https://github.com/Rick-hunterr/champaqui)
-
 ### CyberAlberdi
 Proyecto orientado a **ciberseguridad y concientización digital**, combinando contenido educativo y desarrollo web.
 
